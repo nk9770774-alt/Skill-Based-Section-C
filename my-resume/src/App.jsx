@@ -1,6 +1,6 @@
-import './App.css'
-import Demo from './components/Demo'
-import './Demo.css'
+import "./App.css"
+import Demo from './components/Demo';
+
 function App() {
   return (
   <>
